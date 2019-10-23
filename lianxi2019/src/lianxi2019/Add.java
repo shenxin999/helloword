@@ -15,6 +15,7 @@ public class Add {
 		b=new Integer(scanner.nextLine());
 		int c=a+b;
 		System.out.println("a+b="+c);
+		System.out.println(123);
 	}
 
 }
