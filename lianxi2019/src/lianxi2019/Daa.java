@@ -9,7 +9,7 @@ public class Daa {
 		int a;
 		int b;
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("请输入第一个加数");
+		System.out.println("22222");
 		a = new Integer(scanner.nextLine());
 		System.out.println("请输入第二3个加数");
 		b = new Integer(scanner.nextLine());
