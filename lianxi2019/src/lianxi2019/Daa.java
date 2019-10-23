@@ -2,7 +2,7 @@ package lianxi2019;
 
 import java.util.Scanner;
 
-public class Add {
+public class Daa {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
